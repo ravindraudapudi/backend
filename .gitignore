@@ -1,0 +1,5 @@
+/.metadata/
+/.recommenders/
+*.log
+*.gz
+emembler/src/emembler-07-02-QA.out
